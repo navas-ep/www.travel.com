@@ -1,0 +1,107 @@
+.top{
+	width: 100%;
+	height: 70px;
+	background-color: skyblue;
+}
+
+.right{
+	width: 27%;
+	height: 1000px;
+	background-color: gray;
+	margin-left: 12px;
+	float: left;
+	margin-top: 10px;
+
+
+}
+
+.center{
+	width: 70%;
+	height: 1000px;
+	background-color: white;
+	margin-left: 10px;
+	float: left;
+	margin-top: 10px;
+	
+}
+.bottom{
+	width: 100%;
+	height: 200px;
+	background-color: skyblue;
+	margin-top: 10px;
+	float: left;
+}
+.center .chin{
+	width: 500px;
+	height: 200px;
+	border: 20px 20px;
+	background-color: whitesmoke;
+	margin-top: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.center .chin .chin1{
+	width: 200px;
+	height: 170px;
+	background-image: url('https://magadotravel.com/wp-content/uploads/2018/11/Picture40-e1542010574250.jpg');
+	background-repeat: no-repeat;
+	background-size: 100%;
+	margin-top: 30px;
+	margin-left: 10px;
+	float: left;
+}
+.center .chin .chin2{
+	width: 265px;
+	height: 160px;
+	color: black;
+	text-align: left;
+	background-color: whitesmoke;
+	float: left;
+	margin-left: 20px;
+	margin-top: 16px;
+
+}
+.con{
+	color: red;
+	font-weight: bold;
+}
+.con:hover{
+	width: 155px;
+	height: 20px;
+	background-color: black;
+	color: yellow;
+	transition: 1s;
+	border-style: double;
+	border-radius: 20px 20px;
+
+}
+
+.box{
+	width: 90%;
+	height: 50px;
+	background-color: whitesmoke;
+	margin-top: 30px;
+    margin-left: 10px;
+    cursor: pointer;
+}
+.box1 img{
+	width: 30px;
+	height: 35px;
+	float: left;
+	background-color: red;
+	margin-top: 10px;
+
+}
+.right .box2{
+	float: left;
+	width: 160px;
+	height: 30px;
+	
+	border-color: red;
+	border-style: double;
+	margin-top: 10px;
+
+
+}
+
+
